@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     "This is the name of king vovovo"
     ]
     
+    //MARK:- View life cycle
     override func viewDidLoad() {
         super.viewDidLoad()
         configureCollectionView()
